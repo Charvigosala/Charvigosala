@@ -17,3 +17,5 @@ stats.vercel.app/api?username=renukacsit&amp;show_icons=true&amp;theme=radical)
 langs/?username=renukacsit&amp;layout=compact)
 ## �� Connect with Me- ✉️ Email: renuka@example.com- �� LinkedIn: [Renu
 Profile](https://linkedin.com/in/renuka-example)
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=%23&logoColor=blue)
+
