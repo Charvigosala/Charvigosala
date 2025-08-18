@@ -7,7 +7,7 @@
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Charvigosala&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Charvigosala&layout=compact)
-## 📫 Connect with Me- ✉️ Email: renuka@example.com- 🔗 LinkedIn: [Renuka Profile](https://linkedin.com/in/renuka-example)
+## 📫 Connect with Me- ✉️ Email: gosalacharvi@gmail.com- 🔗 LinkedIn: [Charvi Profile](https://linkedin.com/in/renuka-example)
 
 
 
