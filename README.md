@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Renuka!- 💻 I’m passionate about Full Stack Development & Cybersecurity- 🌱 Currently learning: Spring Boot, MongoDB, and GitHub Actions- 💡 Fun Fact: I once debugged a 50-line error just by adding a semicolon 😂
+# 👋 Hi there, I'm CharviReddy!- 💻 I’m passionate about Full Stack Development & Cybersecurity- 🌱 Currently learning: Spring Boot, MongoDB, and GitHub Actions- 💡 Fun Fact: I once debugged a 50-line error just by adding a semicolon 😂
 ## 🛠️ Skills & Tools
 ![Static Badge](https://img.shields.io/badge/java-advanced-pink%2C?style=for-the-badge&logo=java&logoColor=pink&label=java&labelColor=pink&color=red)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
