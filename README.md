@@ -17,11 +17,20 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (click links — images fallback)
 
-![GitHub Stats](https://github-readme-stats-charvi.vercel.app/api?username=Charvigosala&show_icons=true&theme=radical)
+> The dynamic images sometimes get blocked by GitHub’s image proxy.  
+> Here are direct links (open in a new tab) — they always work:
 
-![Top Languages](https://github-readme-stats-charvi.vercel.app/api/top-langs/?username=Charvigosala&layout=compact)
+- [Open GitHub Stats page (direct)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Charvigosala&show_icons=true&theme=radical)  
+- [Open Top Languages (direct)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Charvigosala&layout=compact)
+
+> If you later deploy your own Vercel instance, replace the two links above with:
+>
+> `https://YOUR-DEPLOYMENT.vercel.app/api?username=Charvigosala&show_icons=true&theme=radical`  
+> `https://YOUR-DEPLOYMENT.vercel.app/api/top-langs/?username=Charvigosala&layout=compact`
+>
+> (I'll give exact paste-ready lines for the README when you have that URL.)
 
 ---
 
@@ -33,7 +42,7 @@
 
 ## 🌐 Connect with Me
 
-- ✉️ Email: **gosalacharvi@gmail.com**
+- ✉️ Email: **gosalacharvi@gmail.com**  
 - 💼 LinkedIn: [Charvi Profile](https://linkedin.com/in/charvigosala)
 
 ---
@@ -41,4 +50,3 @@
 ## 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Charvigosala&color=blue&style=flat-square)
-
