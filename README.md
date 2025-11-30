@@ -17,20 +17,15 @@
 
 ---
 
-## 📊 GitHub Stats (click links — images fallback)
+## 📊 GitHub Stats (Click links — reliable fallback)
 
-> The dynamic images sometimes get blocked by GitHub’s image proxy.  
-> Here are direct links (open in a new tab) — they always work:
+> GitHub’s image proxy sometimes blocks externally generated images.  
+> Use these direct links to view your live stats in a new tab:
 
-- [Open GitHub Stats page (direct)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Charvigosala&show_icons=true&theme=radical)  
+- [Open GitHub Stats (direct)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Charvigosala&show_icons=true&theme=radical)  
 - [Open Top Languages (direct)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Charvigosala&layout=compact)
 
-> If you later deploy your own Vercel instance, replace the two links above with:
->
-> `https://YOUR-DEPLOYMENT.vercel.app/api?username=Charvigosala&show_icons=true&theme=radical`  
-> `https://YOUR-DEPLOYMENT.vercel.app/api/top-langs/?username=Charvigosala&layout=compact`
->
-> (I'll give exact paste-ready lines for the README when you have that URL.)
+*(If you later deploy your own Vercel instance, you can replace the two links above with image tags so the charts appear inside the README.)*
 
 ---
 
