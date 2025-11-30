@@ -1,14 +1,44 @@
+# 👋 Hi there, I'm Charvi!
+
+🚀 Passionate about **DevOps, Full Stack Development, and Cybersecurity**  
+📚 Currently learning: **Docker, GitHub Actions, Spring Boot, MongoDB**  
+😂 Fun Fact: I once fixed a 50-line error with just a semicolon!
+
+---
 
 ## 🛠️ Skills & Tools
-![Static Badge](https://img.shields.io/badge/java-advanced-pink%2C?style=for-the-badge&logo=java&logoColor=pink&label=java&labelColor=pink&color=red)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Charvigosala&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Charvigosala&layout=compact)
-## 📫 Connect with Me- ✉️ Email: gosalacharvi@gmail.com- 🔗 LinkedIn: [Charvi Profile](https://linkedin.com/in/renuka-example)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
+---
 
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Charvigosala&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Charvigosala&layout=compact)
+
+---
+
+## 🏆 GitHub Achievements & Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Charvigosala&theme=radical&no-frame=true&margin-w=10)
+
+---
+
+## 🌐 Connect with Me
+
+- ✉️ Email: **gosalacharvi@gmail.com**
+- 💼 LinkedIn: [Charvi Profile](https://linkedin.com/in/charvigosala)
+
+---
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=Charvigosala&color=blue&style=flat-square)
 
