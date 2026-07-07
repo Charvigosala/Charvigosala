@@ -12,12 +12,17 @@ I like taking projects from idea to working product — from full-stack apps wit
 
 ## 🚀 Featured projects
 
-- **[Aeroprice](https://github.com/Charvigosala/Aeroprice)** — Flight fare prediction app; ML model estimates ticket prices from airline, route, stops, and travel date, served via FastAPI + React
+- **[RetentionAI](https://github.com/Charvigosala/RetentionAI)** — Customer retention prediction project, built for Cognizant Technoverse Hackathon 2026 (prefinalist, 1 of 3 MGIT teams selected)
+- **[Aeroprice](https://github.com/Charvigosala/Aeroprice)** / **[aeroprice-v2](https://github.com/Charvigosala/aeroprice-v2)** — Flight fare prediction app; ML model estimates ticket prices from airline, route, stops, and travel date, served via FastAPI + React
 - **[tesla-financial-rag-chatbot](https://github.com/Charvigosala/tesla-financial-rag-chatbot)** — RAG chatbot for semantic querying over financial reports, built with n8n, OpenAI, and Pinecone
 - **[ollama-ai-agent-n8n](https://github.com/Charvigosala/ollama-ai-agent-n8n)** — Cloud-connected local AI agent using n8n, Ollama, and Llama 3.2 for real-time workflow automation
+- **[ai-spend-audit](https://github.com/Charvigosala/ai-spend-audit)** — Free AI spend auditor for startup teams to find overspending in seconds
+- **[sentiment-analysis-automation](https://github.com/Charvigosala/sentiment-analysis-automation)** — AI-powered sentiment analysis workflow using n8n, GPT-4o-mini, and Google Sheets
 - **[Forkfinder](https://github.com/Charvigosala/Forkfinder)** — Full-stack restaurant discovery platform with real-time location detection, OpenStreetMap data, and personalized recommendations
 - **[user-support-portal-crescendo-](https://github.com/Charvigosala/user-support-portal-crescendo-)** — Enterprise-style end-user support portal with secure login, OTP-based recovery, and activity tracking
-- **[sentiment-analysis-automation](https://github.com/Charvigosala/sentiment-analysis-automation)** — AI-powered sentiment analysis workflow using n8n, GPT-4o-mini, and Google Sheets
+- **[enterprise-helpdesk-system](https://github.com/Charvigosala/enterprise-helpdesk-system)** — Internal IT support & ticket management system
+- **[share-a-fact](https://github.com/Charvigosala/share-a-fact)** — Web app for sharing and discovering facts
+- **[code-snippets](https://github.com/Charvigosala/code-snippets)** — Collection of reusable Python code snippets
 
 ## 🛠️ Tech I work with
 
