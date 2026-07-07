@@ -42,6 +42,5 @@ I like taking projects from idea to working product — from full-stack apps wit
 ## 📫 Reach me
 
 - Email: gosalacharvi@gmail.com
-- LinkedIn: [linkedin.com/in/gosalacharvi](#)
+- LinkedIn: [[linkedin.com/in/gosalacharvi](https://www.linkedin.com/in/charvigosala)](#)
 
-*(Update the LinkedIn link above with your actual profile URL before publishing.)*
