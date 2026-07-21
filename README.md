@@ -5,10 +5,14 @@
 <h3 align="center">🎓 CSE Student @ MGIT Hyderabad &nbsp;·&nbsp; 🤖 Computer Vision &nbsp;·&nbsp; 🧠 RAG & LLMs &nbsp;·&nbsp; 💻 Full Stack</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/charvigosala/"><img src="https://img.shields.io/badge/LinkedIn-B8A9E8?style=for-the-badge&logo=linkedin&logoColor=4A4458" /></a>
-  <a href="https://linktr.ee/charvigosala"><img src="https://img.shields.io/badge/Linktree-F5B8D0?style=for-the-badge&logo=linktree&logoColor=4A4458" /></a>
-  <a href="mailto:gosalacharvi@gmail.com"><img src="https://img.shields.io/badge/Gmail-A8D8C9?style=for-the-badge&logo=gmail&logoColor=4A4458" /></a>
-  <a href="https://github.com/Charvigosala"><img src="https://img.shields.io/badge/GitHub-D8D2E8?style=for-the-badge&logo=github&logoColor=4A4458" /></a>
+  <a href="https://www.linkedin.com/in/charvigosala/"><img src="https://img.shields.io/badge/LINKEDIN-B8A9E8?style=for-the-badge&logo=linkedin&logoColor=4A4458" /></a>
+  <a href="https://linktr.ee/charvigosala"><img src="https://img.shields.io/badge/LINKTREE-F5B8D0?style=for-the-badge&logo=linktree&logoColor=4A4458" /></a>
+  <a href="mailto:gosalacharvi@gmail.com"><img src="https://img.shields.io/badge/GMAIL-A8D8C9?style=for-the-badge&logo=gmail&logoColor=4A4458" /></a>
+  <a href="https://github.com/Charvigosala"><img src="https://img.shields.io/badge/GITHUB-D8D2E8?style=for-the-badge&logo=github&logoColor=4A4458" /></a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
 </p>
 
 <p align="center">
@@ -16,9 +20,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Charvigosala&label=Profile%20Views&color=B8A9E8&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Charvigosala&label=PROFILE+VIEWS&color=B8A9E8&style=for-the-badge" />
   <img src="https://img.shields.io/badge/GPA-9.07-F5B8D0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/College-MGIT%20Hyderabad-A8D8C9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/COLLEGE-MGIT%20HYDERABAD-A8D8C9?style=for-the-badge" />
 </p>
 
 ---
@@ -41,68 +45,56 @@ goal: "SDE / AI-ML role at a product-driven company"
 
 ## 🧭 My Journey So Far
 
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#B8A9E8','primaryTextColor':'#4A4458','primaryBorderColor':'#B8A9E8','lineColor':'#F5B8D0','textColor':'#4A4458'}}}%%
-timeline
-    title From Coursework to Real Products
-    2023 : Started B.Tech CSE @ MGIT
-    2024 : SmartBridge Internship 🌐 : Salesforce Developer (Trailhead, Apex, Flows)
-    2025 : Published Research 📄 : CRESCENDO — Mood-Based Music Player (Journal of HCI)
-    2025-26 : Full-Stack Builder 🚀 : AeroPrice · ForkFinder · Tesla RAG Chatbot
-    2026 (Spring) : RetentionAI ☎️ : Churn prediction + n8n/Twilio automation
-    2026 (Summer) : Client Focus Internship 🩺 : CV tablet-counting system for pharma
-    2026-27 : Final Year Project 🧠 : Hallucination-resistant RAG for campus placements
-```
+<table width="100%">
+<tr>
+<td align="center" width="14%" style="background-color:#B8A9E8"><b>2023</b></td>
+<td align="center" width="14%" style="background-color:#F5B8D0"><b>2024</b></td>
+<td align="center" width="14%" style="background-color:#A8D8C9"><b>2025</b></td>
+<td align="center" width="14%" style="background-color:#D8D2E8"><b>2025–26</b></td>
+<td align="center" width="14%" style="background-color:#F5D4E0"><b>2026 (Spring)</b></td>
+<td align="center" width="15%" style="background-color:#C9E4D8"><b>2026 (Summer)</b></td>
+<td align="center" width="15%" style="background-color:#E0D6F0"><b>2026–27</b></td>
+</tr>
+<tr>
+<td align="center">Started B.Tech CSE @ MGIT</td>
+<td align="center">SmartBridge Internship 🌐<br><sub>Salesforce Dev</sub></td>
+<td align="center">Published Research 📄<br><sub>CRESCENDO</sub></td>
+<td align="center">Full-Stack Builder 🚀<br><sub>AeroPrice · ForkFinder</sub></td>
+<td align="center">RetentionAI ☎️<br><sub>n8n + Twilio</sub></td>
+<td align="center">Client Focus Internship 🩺<br><sub>CV tablet counting</sub></td>
+<td align="center">Final Year Project 🧠<br><sub>RAG for placements</sub></td>
+</tr>
+</table>
 
 <br>
 
 ## 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,fastapi,nodejs,mongodb,mysql,git,github&theme=light" />
+</p>
+
 <table>
 <tr>
 <td valign="top" width="50%">
 
-**Languages**
+**AI / ML**
 <br>
-<img src="https://img.shields.io/badge/Python-B8A9E8?style=flat-square&logo=python&logoColor=4A4458" />
-<img src="https://img.shields.io/badge/Java-F5B8D0?style=flat-square&logo=openjdk&logoColor=4A4458" />
-<img src="https://img.shields.io/badge/JavaScript-A8D8C9?style=flat-square&logo=javascript&logoColor=4A4458" />
-<img src="https://img.shields.io/badge/PHP-D8D2E8?style=flat-square&logo=php&logoColor=4A4458" />
-<img src="https://img.shields.io/badge/SQL-B8A9E8?style=flat-square&logo=mysql&logoColor=4A4458" />
-
-**Frontend**
-<br>
-<img src="https://img.shields.io/badge/React-F5B8D0?style=flat-square&logo=react&logoColor=4A4458" />
-<img src="https://img.shields.io/badge/HTML5-A8D8C9?style=flat-square&logo=html5&logoColor=4A4458" />
-<img src="https://img.shields.io/badge/CSS3-B8A9E8?style=flat-square&logo=css3&logoColor=4A4458" />
-
-**Backend**
-<br>
-<img src="https://img.shields.io/badge/FastAPI-F5B8D0?style=flat-square&logo=fastapi&logoColor=4A4458" />
-<img src="https://img.shields.io/badge/Node.js-A8D8C9?style=flat-square&logo=nodedotjs&logoColor=4A4458" />
+<img src="https://img.shields.io/badge/SCIKIT_LEARN-B8A9E8?style=flat-square&logo=scikitlearn&logoColor=4A4458" />
+<img src="https://img.shields.io/badge/ROBOFLOW-F5B8D0?style=flat-square&logoColor=4A4458" />
+<img src="https://img.shields.io/badge/LANGCHAIN-A8D8C9?style=flat-square&logoColor=4A4458" />
+<img src="https://img.shields.io/badge/FAISS%2FCHROMA-D8D2E8?style=flat-square&logoColor=4A4458" />
+<img src="https://img.shields.io/badge/OLLAMA-F5D4E0?style=flat-square&logoColor=4A4458" />
 
 </td>
 <td valign="top" width="50%">
 
-**AI / ML**
+**Automation & Tools**
 <br>
-<img src="https://img.shields.io/badge/Scikit_Learn-B8A9E8?style=flat-square&logo=scikitlearn&logoColor=4A4458" />
-<img src="https://img.shields.io/badge/Roboflow-F5B8D0?style=flat-square&logoColor=4A4458" />
-<img src="https://img.shields.io/badge/FAISS%2FChroma-A8D8C9?style=flat-square&logoColor=4A4458" />
-<img src="https://img.shields.io/badge/LangChain-B8A9E8?style=flat-square&logoColor=4A4458" />
-<img src="https://img.shields.io/badge/Ollama-F5B8D0?style=flat-square&logoColor=4A4458" />
-
-**Automation**
-<br>
-<img src="https://img.shields.io/badge/n8n-A8D8C9?style=flat-square&logoColor=4A4458" />
-<img src="https://img.shields.io/badge/Twilio-B8A9E8?style=flat-square&logo=twilio&logoColor=4A4458" />
-
-**Tools**
-<br>
-<img src="https://img.shields.io/badge/Git-F5B8D0?style=flat-square&logo=git&logoColor=4A4458" />
-<img src="https://img.shields.io/badge/GitHub-D8D2E8?style=flat-square&logo=github&logoColor=4A4458" />
-<img src="https://img.shields.io/badge/MongoDB-A8D8C9?style=flat-square&logo=mongodb&logoColor=4A4458" />
-<img src="https://img.shields.io/badge/Salesforce-B8A9E8?style=flat-square&logo=salesforce&logoColor=4A4458" />
+<img src="https://img.shields.io/badge/N8N-B8A9E8?style=flat-square&logoColor=4A4458" />
+<img src="https://img.shields.io/badge/TWILIO-F5B8D0?style=flat-square&logo=twilio&logoColor=4A4458" />
+<img src="https://img.shields.io/badge/SALESFORCE-A8D8C9?style=flat-square&logo=salesforce&logoColor=4A4458" />
+<img src="https://img.shields.io/badge/PHP-D8D2E8?style=flat-square&logo=php&logoColor=4A4458" />
 
 </td>
 </tr>
@@ -113,16 +105,28 @@ timeline
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Charvigosala&show_icons=true&hide_border=true&count_private=true&title_color=B8A9E8&icon_color=F5B8D0&text_color=4A4458&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charvigosala&layout=compact&hide_border=true&title_color=B8A9E8&text_color=4A4458&bg_color=00000000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Charvigosala&show_icons=true&hide_border=true&count_private=true&theme=vue&hide_rank=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charvigosala&layout=compact&hide_border=true&theme=vue" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charvigosala&hide_border=true&background=00000000&ring=B8A9E8&fire=F5B8D0&currStreakLabel=B8A9E8" />
+  <img src="https://streak-stats.demolab.com?user=Charvigosala&theme=vue-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Charvigosala&theme=lightgirly&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Charvigosala&theme=minimal&hide_border=true&bg_color=00000000&color=4A4458&line=B8A9E8&point=F5B8D0" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Charvigosala&theme=flat&no-frame=true&row=1&column=6" />
+</p>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Charvigosala/Charvigosala/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="80%"/>
 </p>
 
 <br>
@@ -143,11 +147,10 @@ CCTV-based automatic tablet counting for a healthcare/pharma client, built durin
 <tr><td width="100%">
 
 ### ☎️ RetentionAI — Telecom Churn Prediction
-Self-initiated churn prediction system with automated customer outreach.
 - **Logistic regression model** scoring customers by churn risk
 - Routed via **n8n** Switch Channel node to **Twilio** (call/WhatsApp/SMS)
 
-[🔗 Repo](https://github.com/Charvigosala/RetentionAI) · `Python` `n8n` `Twilio` `Logistic Regression`
+[🔗 Repo](https://github.com/Charvigosala/RetentionAI) · `Python` `n8n` `Twilio`
 
 </td></tr>
 <tr><td width="100%">
@@ -163,7 +166,7 @@ Retrieval-augmented chatbot answering questions over Tesla's financial documents
 ### 💬 Sentiment Analysis Automation
 Automated pipeline for sentiment classification and analysis workflows.
 
-[🔗 Repo](https://github.com/Charvigosala/sentiment-analysis-automation) · `Python` `NLP` `Automation`
+[🔗 Repo](https://github.com/Charvigosala/sentiment-analysis-automation) · `Python` `NLP`
 
 </td></tr>
 <tr><td width="100%">
@@ -171,7 +174,7 @@ Automated pipeline for sentiment classification and analysis workflows.
 ### 🦙 Ollama AI Agent (n8n)
 AI agent built with local Ollama models, orchestrated through n8n workflows.
 
-[🔗 Repo](https://github.com/Charvigosala/ollama-ai-agent-n8n) · `Ollama` `n8n` `LLMs`
+[🔗 Repo](https://github.com/Charvigosala/ollama-ai-agent-n8n) · `Ollama` `n8n`
 
 </td></tr>
 <tr><td width="100%">
@@ -185,17 +188,17 @@ ML-powered fare estimation app based on airline, route, stops, and travel date.
 <tr><td width="100%">
 
 ### 🍴 ForkFinder — Restaurant Discovery Platform
-Full-stack MERN app with real-time location detection and an interactive Leaflet map, OpenStreetMap data, and personalized recommendations.
+Full-stack MERN app with real-time location detection and an interactive Leaflet map.
 
-[🔗 Repo](https://github.com/Charvigosala/Forkfinder) · `MongoDB` `Express` `React` `Node.js` `Leaflet`
+[🔗 Repo](https://github.com/Charvigosala/Forkfinder) · `MongoDB` `Express` `React` `Leaflet`
 
 </td></tr>
 <tr><td width="100%">
 
 ### 🎵 CRESCENDO — Mood-Based Music Player
-Published research: *Journal of Research and Reviews in Human Computer Interaction* (Vol. 1, Issue 3, 2025). Companion project simulates enterprise support workflows — OTP recovery, email notifications, activity tracking.
+Published research: *Journal of Research and Reviews in Human Computer Interaction* (Vol. 1, Issue 3, 2025).
 
-[🔗 Repo](https://github.com/Charvigosala/user-support-portal-crescendo-) · `Research` `HTML/CSS/JS` `HCI`
+[🔗 Repo](https://github.com/Charvigosala/user-support-portal-crescendo-) · `Research` `HTML/CSS/JS`
 
 </td></tr>
 <tr><td width="100%">
@@ -225,7 +228,7 @@ Collection of reusable Python code snippets and utilities.
 </table>
 
 <p align="center">
-  <a href="https://github.com/Charvigosala?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repos-B8A9E8?style=flat-square&logo=github&logoColor=4A4458" /></a>
+  <a href="https://github.com/Charvigosala?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOS-B8A9E8?style=flat-square&logo=github&logoColor=4A4458" /></a>
 </p>
 
 <br>
@@ -251,14 +254,6 @@ Hands-on Salesforce development — Apex, Flows, and platform customization.
 
 <br>
 
-## 📜 Certifications
-
-<p>
-  <img src="https://img.shields.io/badge/Cisco-Certified-B8A9E8?style=flat-square&logo=cisco&logoColor=4A4458" />
-</p>
-
-<br>
-
 ## 🗺️ Roadmap
 
 ```text
@@ -276,9 +271,9 @@ Hands-on Salesforce development — Apex, Flows, and platform customization.
 ## 🌸 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/charvigosala/"><img src="https://img.shields.io/badge/LinkedIn-Connect-B8A9E8?style=for-the-badge&logo=linkedin&logoColor=4A4458" /></a>
-  <a href="https://linktr.ee/charvigosala"><img src="https://img.shields.io/badge/Linktree-All_Links-F5B8D0?style=for-the-badge&logo=linktree&logoColor=4A4458" /></a>
-  <a href="mailto:gosalacharvi@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-A8D8C9?style=for-the-badge&logo=gmail&logoColor=4A4458" /></a>
+  <a href="https://www.linkedin.com/in/charvigosala/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-B8A9E8?style=for-the-badge&logo=linkedin&logoColor=4A4458" /></a>
+  <a href="https://linktr.ee/charvigosala"><img src="https://img.shields.io/badge/LINKTREE-ALL_LINKS-F5B8D0?style=for-the-badge&logo=linktree&logoColor=4A4458" /></a>
+  <a href="mailto:gosalacharvi@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY_HI-A8D8C9?style=for-the-badge&logo=gmail&logoColor=4A4458" /></a>
 </p>
 
 <p align="center">
